@@ -1,5 +1,6 @@
 # Software_Engineering_Team_Project
-과제주제 : 주문 프로그램(키오스크)
+대문주제 : 주문 프로그램(키오스크)
+
 
 
 팀명 : 330_4567
